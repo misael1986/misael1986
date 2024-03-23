@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misael1986
-- 👀 I’m interested in SOFTWARE development and Technology Trends as IA and Information Security
-- 🌱 I’m currently learning Java and Kotlin
+- 👀 I’m interested in SOFTWARE development and Technology Trends as AI and Information Security
+- 🌱 I’m currently working with Java and Kotlin
 - 📫 How to reach me: Twitter @Spartani986 email: gabelogan0167@hotmail.com
 
 <!---
